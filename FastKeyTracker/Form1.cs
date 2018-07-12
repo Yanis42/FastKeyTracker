@@ -149,6 +149,7 @@ namespace FastKeyTracker
         //water 6 / spirit / 5 / shadow 5 / forest 5 / fire 8 /GTG 9 / BOTS 3
         private void button7_Click(object sender, EventArgs e)
         {
+            button8.Enabled = true;
             int nbr = Int32.Parse(forestKey.Text);
             nbr++;
             forestKey.Text = nbr.ToString();
@@ -157,6 +158,7 @@ namespace FastKeyTracker
 
         private void button9_Click(object sender, EventArgs e)
         {
+            button10.Enabled = true;
             int nbr = Int32.Parse(fireKey.Text);
             nbr++;
             fireKey.Text = nbr.ToString();
@@ -165,6 +167,7 @@ namespace FastKeyTracker
 
         private void button11_Click(object sender, EventArgs e)
         {
+            button12.Enabled = true;
             int nbr = Int32.Parse(waterKey.Text);
             nbr++;
             waterKey.Text = nbr.ToString();
@@ -173,6 +176,7 @@ namespace FastKeyTracker
 
         private void button13_Click(object sender, EventArgs e)
         {
+            button14.Enabled = true;
             int nbr = Int32.Parse(shadowKey.Text);
             nbr++;
             shadowKey.Text = nbr.ToString();
@@ -181,6 +185,7 @@ namespace FastKeyTracker
 
         private void button15_Click(object sender, EventArgs e)
         {
+            button16.Enabled = true;
             int nbr = Int32.Parse(spiritKey.Text);
             nbr++;
             spiritKey.Text = nbr.ToString();
@@ -189,6 +194,7 @@ namespace FastKeyTracker
 
         private void button17_Click(object sender, EventArgs e)
         {
+            button18.Enabled = true;
             int nbr = Int32.Parse(gtgKey.Text);
             nbr++;
             gtgKey.Text = nbr.ToString();
@@ -197,6 +203,7 @@ namespace FastKeyTracker
 
         private void button19_Click(object sender, EventArgs e)
         {
+            button20.Enabled = true;
             int nbr = Int32.Parse(botwKey.Text);
             nbr++;
             botwKey.Text = nbr.ToString();
@@ -205,6 +212,7 @@ namespace FastKeyTracker
 
         private void button21_Click(object sender, EventArgs e)
         {
+            button22.Enabled = true;
             int nbr = Int32.Parse(trialKey.Text);
             nbr++;
             trialKey.Text = nbr.ToString();
