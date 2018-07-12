@@ -1,0 +1,10 @@
+D:\Programming\FastKeyTracker\FastKeyTracker\bin\Debug\FastKeyTracker.exe.config
+D:\Programming\FastKeyTracker\FastKeyTracker\bin\Debug\FastKeyTracker.exe
+D:\Programming\FastKeyTracker\FastKeyTracker\bin\Debug\FastKeyTracker.pdb
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.csprojResolveAssemblyReference.cache
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.Form1.resources
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.Properties.Resources.resources
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.csproj.GenerateResource.cache
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.csproj.CoreCompileInputs.cache
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.exe
+D:\Programming\FastKeyTracker\FastKeyTracker\obj\Debug\FastKeyTracker.pdb
